@@ -1,16 +1,9 @@
 
 <h1 align="center">👋 Hello, I'm Laxmi Ray!</h1>
 
-<h2 align="center"> 
-  <img src="https://img.shields.io/badge/B.Tech%20in%20Computer%20Science-blue?style=flat-square&logo=graduation-cap&logoColor=white" alt="B.Tech in Computer Science">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-orange?style=flat-square&logo=javascript&logoColor=white" alt="Full Stack Developer">
-  <img src="https://img.shields.io/badge/Tech%20Enthusiast-green?style=flat-square&logo=rocket&logoColor=white" alt="Tech Enthusiast">
-</h2>
-
-
 ### 🚀 About Me
 
-- 🎓 I'm currently pursuing a B.Tech in Computer Science from GH Raisoni College of Engineering, Nagpur.
+- 🎓 I'm currently pursuing a B.Tech in Computer Science.
 - 🌱 I’m currently learning advanced web development concepts.
 - 💻 I have experience with **React.js, Node.js, Tailwind CSS, MongoDB, and PostgreSQL**.
 - 🌍 Open to collaborations on real-time and impactful projects, including full-stack development.
