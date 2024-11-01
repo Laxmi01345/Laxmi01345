@@ -98,7 +98,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/laxmi-ray-198257237" target="_blank">
+  <a href="https://www.linkedin.com/in/laxmi-ray-198257237" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 <a href="https://github.com/Laxmi01345" target="_blank">
