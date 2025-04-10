@@ -12,7 +12,7 @@
 
 ### 🛠️ My Tech Stack
 
-- **Languages**: C++, JavaScript, SQL
+- **Languages**: C++, JavaScript, SQL , Python
 - **Frontend**: React.js, Tailwind CSS
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, PostgreSQL
