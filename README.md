@@ -41,29 +41,29 @@
         <table>
           <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/ananyag309/ananyag309/blob/main/Explorer%20Badge.png" alt="Explorer Badge" width="80" />
+				<img width="80" alt="Explorer Badge" src="https://github.com/user-attachments/assets/197f231f-31a0-4e0a-915a-179212594e7d" />
               <br>
               <strong>Explorer Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/ananyag309/ananyag309/blob/main/Adventurer%20Badge.png" alt="Adventurer Badge" width="80" />
+			<img width="80" alt="Adventurer Badge" src="https://github.com/user-attachments/assets/eb55fac2-95a4-40c5-a8bf-d7fa4683375c" />
               <br>
               <strong>Adventurer Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/ananyag309/ananyag309/blob/main/Champion%20Badge.png" alt="Champion Badge" width="80" />
+             <img width="80"  alt="Champion Badge" src="https://github.com/user-attachments/assets/35404fad-a6d7-420b-9fc3-9b64ca1abd76" />
               <br>
               <strong>Champion Badge</strong>
             </td>
           </tr>
           <tr align="center">
              <td style="padding: 10px;" width="100">
-              <img src="https://github.com/ananyag309/ananyag309/blob/main/Trailblazer%20Badge.png" alt="Trailblazer Badge" width="80" />
+              <img width="80" alt="Trailblazer Badge" src="https://github.com/user-attachments/assets/3178601a-c0d5-4a52-a0e7-61b728af905a" />
               <br>
               <strong>Trailblazer Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/ananyag309/ananyag309/blob/main/Summit%20Seeker%20Badge.png" alt="Summit Seeker Badge" width="80" />
+              <img width="80" alt="Summit Seeker Badge" src="https://github.com/user-attachments/assets/a972ca05-577f-449d-b9ac-64ab5df6b310" />
               <br>
               <strong>Summit Seeker Badge</strong>
             </td>
