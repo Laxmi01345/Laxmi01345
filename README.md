@@ -3,7 +3,7 @@
 
 ### 🚀 About Me
 
-- 🎓 I'm currently pursuing a B.Tech in Computer Science.
+- 🎓 B.Tech in Computer Science, 2025 graduate  
 - 💻 I have experience with **React.js, Node.js, Tailwind CSS, MongoDB, and PostgreSQL**.
 - 🌍 Open to collaborations on real-time and impactful projects, including full-stack development.
 - 📚 Actively improving my skills in **Data Structures, Algorithms,** and **Object-Oriented Programming**.
